@@ -1,7 +1,14 @@
 {
-    "users": [
-      { "id": 1, "name": "John" },
-      { "id": 2, "name": "Jane" }
-    ]
-  }
-  
+  "posts": [
+    {
+      "title": "Post 1",
+      "body": "This is the first post ffgdfg",
+      "id": 1
+    },
+    {
+      "title": "post 3",
+      "body": "sdfsdff",
+      "id": 3
+    }
+  ]
+}
